@@ -1,0 +1,17 @@
+.navbar {
+  /* position: fixed; */
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navLinks {
+  display: flex;
+}
+
+.logo,
+.navItem {
+  margin: 2rem;
+  font-weight: 400;
+  font-size: 1.1vw;
+}
